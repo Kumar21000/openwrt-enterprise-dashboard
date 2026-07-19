@@ -1,0 +1,9 @@
+{
+    "luci-app-enterprise-dashboard": {
+        "description": "Enterprise Dashboard",
+        "read": {
+            "uci": [],
+            "ubus": {}
+        }
+    }
+}
